@@ -1,3 +1,22 @@
+
+.cabeceraPagina{
+  $colorFondoOscuro: rgb(230,230,230);
+  $colorFondo: rgb(250,250,250);
+  @include background(linear-gradient(rgba($colorFondoOscuro, 0.8), rgba($colorFondoOscuro, 0.0)),
+              image-url('/assets/images/background.png'),
+              $colorFondo);
+  width: 100%;
+  position:absolute;
+  top:0px;
+  left:0px;
+  @include box-sizing (border-box);
+  padding:0px;
+  margin: 0px;
+  z-index: -500;
+  height: 90px;
+}
+
+
 // Items
 .container {
   margin: $base-space;
@@ -152,8 +171,9 @@
     }  
 }
   .item .title{
-      @include adjust-font-size-to(16px,1);
+      @include adjust-font-size-to(18px,1);
       @extend .bold;
+      font-family: "colaborativaBook";
       color:$font-color;
       @extend %ellipsis;
       @include trailer(0);
@@ -251,7 +271,8 @@
     background-size:cover;
   }
   .front .profile-name{
-    @include adjust-font-size-to(18px);
+    @include adjust-font-size-to(22px);
+    font-family: "colaborativaMedium";
     @extend %white;
     @extend %ellipsis;
     @extend .bold;

@@ -5,11 +5,12 @@
 }
 
 body{
-  font:#{$base-font-size}/#{$base-line-height} 'Open sans',sans-serif;
+  font:#{$base-font-size}/#{$base-line-height} 'Droid sans',sans-serif;
   color:$font-color;
   text-rendering: optimizelegibility;
   -webkit-font-smoothing:antialiased;
-  background-color:$gray-extra-light-color;
+  //background-color:$gray-extra-light-color;
+  background: url('/assets/images/background.png'), #fafafa;
 }
   
 a{text-decoration:none;}

@@ -1,1 +1,1060 @@
-html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}html{line-height:1}ol,ul{list-style:none}table{border-collapse:collapse;border-spacing:0}caption,th,td{text-align:left;font-weight:normal;vertical-align:middle}q,blockquote{quotes:none}q:before,q:after,blockquote:before,blockquote:after{content:"";content:none}a img{border:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary{display:block}html{font-size:100%;line-height:1.5em}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}body{font:16px/24px "Open sans",sans-serif;color:#333;text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;background-color:#f1f3f5}a{text-decoration:none}a:hover{color:#008cdd}strong{font-weight:bold}em{font-style:italic}.md{*zoom:1;display:block}.md:after{content:"";display:table;clear:both}.md .bd{overflow:hidden}.md .img{float:left;margin-right:20px}.md .img img{display:block}.md.md-10 .img{margin-right:10px}.md-rev{*zoom:1;display:block}.md-rev:after{content:"";display:table;clear:both}.md-rev .bd{overflow:hidden}.md-rev .img{float:right;margin-left:20px}.md-rev .img img{display:block}.md-rev.md-10 .img{margin-left:10px}.stat-number{font-size:1em;line-height:1.5em}.stat-label{font-size:0.75em;line-height:2em;display:block}.list-stat{position:relative;display:table;width:100%;table-layout:fixed;text-align:center}.list-stat .stat-number{font-size:1.25em;line-height:1.2em;display:block}.list-stat .stat-label{font-size:0.75em;line-height:2em;opacity:.75}.list-stat li{position:relative;display:table-cell}.list-stat li+li:before{content:"";position:absolute;top:0px;bottom:0px;left:0px;width:1px;background:rgba(0,0,0,0.05)}.btn{font-family:inherit;font-size:100%;margin:0;line-height:normal;text-transform:none;-webkit-appearance:none;position:relative;margin-bottom:0em;font-size:0.8125em;line-height:1.846153846153846em;border-width:0em;border-style:solid;padding:1.125em;-webkit-background-clip:padding;-moz-background-clip:padding;background-clip:padding-box;display:inline-block;border-radius:4px;cursor:pointer;width:auto;text-decoration:none;text-shadow:none!important;box-shadow:inset 0 0 0 1px #004b77,inset 0 2px 0 0 #2bb1ff;background-color:#008cdd;background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255,255,255,0.1)), color-stop(100%, rgba(0,0,0,0.1)));background-image:-webkit-linear-gradient(rgba(255,255,255,0.1),rgba(0,0,0,0.1));background-image:-moz-linear-gradient(rgba(255,255,255,0.1),rgba(0,0,0,0.1));background-image:-o-linear-gradient(rgba(255,255,255,0.1),rgba(0,0,0,0.1));background-image:linear-gradient(rgba(255,255,255,0.1),rgba(0,0,0,0.1));border-color:#004b77;color:#fff}.btn:hover{box-shadow:inset 0 0 0 1px #004b77,inset 0 2px 0 0 #009cf7;background-color:#007cc4;color:#fff}.btn:active{-webkit-box-shadow:inset 0 0 0 1px #004b77,inset 0 0 9px 4px #0072b4,inset 0 0 9px 4px #0072b4;-moz-box-shadow:inset 0 0 0 1px #004b77,inset 0 0 9px 4px #0072b4,inset 0 0 9px 4px #0072b4;box-shadow:inset 0 0 0 1px #004b77,inset 0 0 9px 4px #0072b4,inset 0 0 9px 4px #0072b4}.btn:hover{text-decoration:none}.btn.small{font-size:0.75em;line-height:2em;border-width:0em;border-style:solid;padding:0.75em;padding-left:1em;padding-right:1em}.btn.large{font-size:1em;line-height:1.5em;border-width:0em;border-style:solid;padding:1.125em;padding-left:1.5em;padding-right:1.5em}.btn.big{font-size:1.25em;line-height:1.2em;border-width:0em;border-style:solid;padding:0.75em;padding-left:2.5em;padding-right:2.5em}.btn.block{display:block}[class*="btn"]+[class*="btn"]{margin-left:.5em}.float-right{float:right}.float-left{float:left}.upper{text-transform:uppercase}.small,small{font-size:0.6875em;line-height:2.1818181818181817em}.align-right{text-align:right}.align-left{text-align:left}.align-center,.btn{text-align:center}.bold,.btn,.meta,.item .title,.item--profile .front .profile-name,.profile-name{font-weight:bold}.italic{font-style:italic}.stat-label,.simple-list--complete li,.list p,.item .title,.item .url,.item--profile .front .profile-name,.profile-name,.profile-meta,.profile-company{text-overflow:ellipsis;overflow:hidden;white-space:nowrap}.stat-label,.simple-list li,.item .simple-list--complete li a,.item .date,.profile-meta,.profile-company{color:#909090}.meta{color:#b2b2b2}.footer,.list,.item .description{color:#5d5d5d}.bar-title a,.item--profile .front .profile-name{color:#fff}.icon{text-indent:-119988px;overflow:hidden;text-align:left;width:16px;height:16px;display:block;float:left;background-color:transparent;background-position:0 0;background-repeat:no-repeat;font-size:1px;line-height:1px;vertical-align:middle}i.icon,img.icon{display:inline-block;float:none;text-indent:0;max-width:none}.icon-sprite,.icon-fork,.icon-star{background:url('../images/icon-s36a4c966bb.png') no-repeat}.icon-fork{background-position:0 0;height:16px;width:16px}.icon-star{background-position:0 -16px;height:16px;width:16px}.container{margin:1em}.footer{max-width:76em;margin:0 auto;text-shadow:0 1px 0 #fff;padding:0 1em}.footer p{font-size:0.75em;line-height:2em}.footer a{color:#333}.footer a:hover{text-decoration:underline}.items{*zoom:1;padding:0.5em 0 0 0.5em;max-width:76em;margin:0 auto}.items:after{content:"";display:table;clear:both}.items [aura-hull-widget]{display:inline}.shape{position:relative;width:100%}.item{padding:0 0.5em 0.5em 0}.item .content{padding:1em}.item .content>:last-child{margin-bottom:0em}.item:hover .title,.item .content a:not(.btn){color:#008cdd}.item-content{-webkit-background-clip:padding;-moz-background-clip:padding;background-clip:padding-box;overflow:hidden;background-color:#fff;border:1px solid #ddd;box-shadow:0 1px 1px rgba(0,0,0,0.05);border-radius:4px;display:block}.item-content[data-href]{cursor:pointer}.bar{background-color:#98a7b5;color:#fff;padding:1em;border:4px 4px 0 0}.bar-title{font-size:1em;line-height:1.5em}.bar-title a{font-size:0.8125em;line-height:1.846153846153846em;opacity:.7}.bar-title a:hover{opacity:1}.metas{background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255,255,255,0)), color-stop(100%, rgba(255,255,255,0.5)));background-image:-webkit-linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0.5));background-image:-moz-linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0.5));background-image:-o-linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0.5));background-image:linear-gradient(rgba(255,255,255,0),rgba(255,255,255,0.5));padding:0 1em;border-top:1px solid #ddd;background-color:#f1f3f5;background-size:100% 1.1875em;background-repeat:no-repeat;background-position:0 100%;box-shadow:inset 0 1px 0 #fff,0 1px 1px rgba(0,0,0,0.05);text-shadow:0 1px 0 rgba(255,255,255,0.5);border-radius:0 0 4px 4px}.meta{position:relative;font-size:0.75em;line-height:2em;display:inline-block;padding:0.5em 0}.meta+.meta{margin-left:1em}.meta--fork .icon-fork{position:relative;top:-2px;opacity:.25}.meta--star .icon-star{position:relative;top:-2px;opacity:.25}.simple-list li{margin-bottom:0.375em;font-size:1em;line-height:1.5em}.simple-list li span{font-size:0.875em;line-height:1.7142857142857142em}.simple-list--complete li{font-size:0.8125em;line-height:1.846153846153846em;margin-bottom:0.15000000000000002em}.simple-list--complete .icon{opacity:.25;margin-right:6px;position:relative;top:-2px}.list{margin-top:0.75em;margin-bottom:0em}.list li{margin-bottom:0.375em}.list .list-title{font-size:0.875em;line-height:1.7142857142857142em}.list p{font-size:0.6875em;line-height:2.1818181818181817em;margin-bottom:0em}.item .title{font-size:1em;line-height:1.5em;color:#333;margin-bottom:0em}.item .url{font-size:0.75em;line-height:2em;margin-bottom:0em;color:#008cdd;display:inline-block;max-width:100%}.item .url:hover{text-decoration:underline}.item .date{margin-bottom:0em;display:block}.item .description{font-size:0.875em;line-height:1.7142857142857142em;margin-top:0.75em;margin-bottom:0em}.item .description+.date{margin-top:0.75em}.item--centered .shape{height:0;padding:0 0 50% 0}.item--centered .content{position:absolute;top:0px;left:0px;text-align:center;padding:0;width:100%;height:100%}.item--centered .content:before{content:'';display:inline-block;height:100%;vertical-align:middle;margin-right:-0.25em}.item--centered .item-content{position:absolute;top:0px;right:0px;bottom:0px;left:0px}.item--centered .centered{display:inline-block;vertical-align:middle}.item--profile{position:relative;-webkit-perspective:800px;-moz-perspective:800px;-ms-perspective:800px;-o-perspective:800px;perspective:800px;z-index:4}.item--profile.item--profile--complete{cursor:pointer}.item--profile.flipped .shape{-webkit-transform:rotateY(-180deg);-moz-transform:rotateY(-180deg);-ms-transform:rotateY(-180deg);-o-transform:rotateY(-180deg);transform:rotateY(-180deg)}.item--profile .shape{height:0;padding:0 0 100% 0;-webkit-transform-style:preserve-3d;-moz-transform-style:preserve-3d;-ms-transform-style:preserve-3d;-o-transform-style:preserve-3d;transform-style:preserve-3d;-webkit-transition:-webkit-transform 500ms ease-in-out;-moz-transition:-moz-transform 500ms ease-in-out;-o-transition:-o-transform 500ms ease-in-out;transition:transform 500ms ease-in-out}.item--profile .item-content{-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden;-o-backface-visibility:hidden;backface-visibility:hidden}.item--profile .front{z-index:1}.item--profile .back{-webkit-transform:rotateY(-180deg);-moz-transform:rotateY(-180deg);-ms-transform:rotateY(-180deg);-o-transform:rotateY(-180deg);transform:rotateY(-180deg);background:#fff;z-index:2}.item--profile .content{position:absolute;top:0px;left:0px;width:100%;height:100%}.item--profile .item-content{position:absolute;top:0px;right:0px;bottom:0px;left:0px;background-position:50% 50%;background-repeat:no-repeat;background-size:cover}.item--profile .front .profile-name{font-size:1.125em;line-height:1.3333333333333333em;padding:0.5em}.profile-gradient{position:absolute;bottom:0px;left:0px;background-image:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, transparent), color-stop(100%, rgba(0,0,0,0.3)));background-image:-webkit-linear-gradient(transparent,rgba(0,0,0,0.3));background-image:-moz-linear-gradient(transparent,rgba(0,0,0,0.3));background-image:-o-linear-gradient(transparent,rgba(0,0,0,0.3));background-image:linear-gradient(transparent,rgba(0,0,0,0.3));-webkit-transform:translateZ(0);-moz-transform:translateZ(0);-ms-transform:translateZ(0);-o-transform:translateZ(0);transform:translateZ(0);color:#fff;width:100%;border-radius:0 0 4px 4px;padding:0.5em}.profile-header{margin-bottom:0.75em}.profil-external{opacity:.25}.profil-external:hover{opacity:.5}.profile-picture{position:relative;-webkit-background-clip:padding;-moz-background-clip:padding;background-clip:padding-box;display:block;width:50px;height:50px;border-radius:4px;overflow:hidden;box-shadow:0 1px 1px #fff}.profile-picture:before{position:absolute;top:0px;right:0px;bottom:0px;left:0px;content:"";display:block;border-radius:4px;box-shadow:inset 0 1px 1px rgba(0,0,0,0.25);z-index:2}.profile-picture img{position:relative;border-radius:4px;z-index:1;display:block;max-width:100%}.profile-name{font-size:1em;line-height:1.5em;margin-top:0.15000000000000002em;color:#333}.profile-meta,.profile-company{font-size:0.8125em;line-height:1.3846153846153846em;display:block}.list-stat--complete{margin-top:0em;padding-top:0.75em;padding-bottom:0.75em;margin-bottom:0em}@media all and (min-width: 33em){.item{width:50%;float:left}.item--centered .shape,.shape{height:0;padding:0 0 100% 0}.item-content{position:absolute;top:0px;right:0px;bottom:0px;left:0px}.item-content footer{position:absolute;right:0px;bottom:0px;left:0px}}@media all and (min-width: 44em){.item{width:33.3333333%}.item--wide{width:66.6666666666%}.item--wide .shape{padding:0 0 50% 0}}@media all and (min-width: 66em){.item{width:25%}.item--wide{width:50%}}
+/*------------------------------------*\
+    Project variables
+\*------------------------------------*/
+/*------------------------------------*\
+    Project variables
+\*------------------------------------*/
+/*------------------------------------*\
+    Compass
+\*------------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000317}}
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000322}}
+html {
+  line-height: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000324}}
+ol, ul {
+  list-style: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000326}}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000328}}
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000330}}
+q, blockquote {
+  quotes: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003103}}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\0000332}}
+a img {
+  border: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/reset\/_utilities\.scss}line{font-family:\00003116}}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block;
+}
+
+/*------------------------------------*\
+    Mixins
+\*------------------------------------*/
+/*------------------------------------*\
+    Projects styles
+\*------------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000361}}
+* html {
+  font-size: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/typography\/_vertical_rhythm\.scss}line{font-family:\0000364}}
+html {
+  font-size: 16px;
+  line-height: 1.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\000033}}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\000037}}
+body {
+  font: 16px/24px "Droid sans", sans-serif;
+  color: #333333;
+  text-rendering: optimizelegibility;
+  -webkit-font-smoothing: antialiased;
+  background: url("/assets/images/background.png"), #fafafa;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\0000316}}
+a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\0000317}}
+a:hover {
+  color: #008cdd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\0000319}}
+strong {
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_base\.scss}line{font-family:\0000320}}
+em {
+  font-style: italic;
+}
+
+/*
+ * Media Object
+ * ============
+ *
+ * The media object describes a content block containing
+ * a fixed-size media element (e.g. image or video)
+ * along with other variable-size content (e.g. text).
+ *
+ *      <div class="md">
+ *          <a href="#" class="img">
+ *              <img src="path/to/my/picture.jpg" alt="me" />
+ *          </a>
+ *          <div class="bd">
+ *              This is a media object.
+ *          </div>
+ *      </div>
+ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000318}}
+.md {
+  *zoom: 1;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+.md:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
+.md .bd {
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
+.md .img {
+  float: left;
+  margin-right: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
+.md .img img {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000320}}
+.md.md-10 .img {
+  margin-right: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000323}}
+.md-rev {
+  *zoom: 1;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+.md-rev:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\000033}}
+.md-rev .bd {
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000313}}
+.md-rev .img {
+  float: right;
+  margin-left: 20px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_media-object\.scss}line{font-family:\0000315}}
+.md-rev .img img {
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000325}}
+.md-rev.md-10 .img {
+  margin-left: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000331}}
+.stat-number {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000334}}
+.stat-label {
+  font-size: 0.75em;
+  line-height: 2em;
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000343}}
+.list-stat {
+  position: relative;
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000349}}
+.list-stat .stat-number {
+  font-size: 1.25em;
+  line-height: 1.2em;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000353}}
+.list-stat .stat-label {
+  font-size: 0.75em;
+  line-height: 2em;
+  opacity: .75;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000358}}
+.list-stat li {
+  position: relative;
+  display: table-cell;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000361}}
+.list-stat li + li:before {
+  content: "";
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 1px;
+  background: rgba(0, 0, 0, 0.05);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000370}}
+.btn {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  line-height: normal;
+  text-transform: none;
+  -webkit-appearance: none;
+  position: relative;
+  margin-bottom: 0em;
+  font-size: 0.8125em;
+  line-height: 1.84615384615385em;
+  border-style: solid;
+  border-width: 0em;
+  padding: 1.125em;
+  -webkit-background-clip: padding;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  display: inline-block;
+  border-radius: 4px;
+  cursor: pointer;
+  width: auto;
+  text-decoration: none;
+  text-shadow: none !important;
+  box-shadow: inset 0 0 0 1px #004b77, inset 0 2px 0 0 #2bb1ff;
+  background-color: #008cdd;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255, 255, 255, 0.1)), color-stop(100%, rgba(0, 0, 0, 0.1)));
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.1));
+  border-color: #004b77;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_button\.scss}line{font-family:\0000313}}
+.btn:hover {
+  box-shadow: inset 0 0 0 1px #004b77, inset 0 2px 0 0 #009cf7;
+  background-color: #007cc4;
+  color: white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/mixins\/_button\.scss}line{font-family:\0000319}}
+.btn:active {
+  -webkit-box-shadow: inset 0 0 0 1px #004b77, inset 0 0 9px 4px #0072b4, inset 0 0 9px 4px #0072b4;
+  -moz-box-shadow: inset 0 0 0 1px #004b77, inset 0 0 9px 4px #0072b4, inset 0 0 9px 4px #0072b4;
+  box-shadow: inset 0 0 0 1px #004b77, inset 0 0 9px 4px #0072b4, inset 0 0 9px 4px #0072b4;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000393}}
+.btn:hover {
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\0000399}}
+.btn.small {
+  font-size: 0.75em;
+  line-height: 2em;
+  border-style: solid;
+  border-width: 0em;
+  padding: 0.75em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003105}}
+.btn.large {
+  font-size: 1em;
+  line-height: 1.5em;
+  border-style: solid;
+  border-width: 0em;
+  padding: 1.125em;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003111}}
+.btn.big {
+  font-size: 1.25em;
+  line-height: 1.2em;
+  border-style: solid;
+  border-width: 0em;
+  padding: 0.75em;
+  padding-left: 2.5em;
+  padding-right: 2.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003117}}
+.btn.block {
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003122}}
+[class*="btn"] + [class*="btn"] {
+  margin-left: .5em;
+}
+
+/*------------------------------------*\
+    Helpers
+\*------------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003127}}
+.float-right {
+  float: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003128}}
+.float-left {
+  float: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003129}}
+.upper {
+  text-transform: uppercase;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003130}}
+.small, small {
+  font-size: 0.6875em;
+  line-height: 2.18181818181818em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003131}}
+.align-right {
+  text-align: right;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003132}}
+.align-left {
+  text-align: left;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003133}}
+.align-center, .btn {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003134}}
+.bold, .btn, .meta, .item .title, .item--profile .front .profile-name, .profile-name {
+  font-weight: bold;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003135}}
+.italic {
+  font-style: italic;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003136}}
+.stat-label, .simple-list--complete li, .list p, .item .title, .item .url, .item--profile .front .profile-name, .profile-name, .profile-meta, .profile-company {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/*------------------------------------*\
+    Text Colors
+\*------------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003145}}
+.stat-label, .simple-list li, .item .simple-list--complete li a, .item .date, .profile-meta, .profile-company {
+  color: #909090;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003146}}
+.meta {
+  color: #b2b2b2;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003147}}
+.footer, .list, .item .description {
+  color: #5d5d5d;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003148}}
+.bar-title a, .item--profile .front .profile-name {
+  color: white;
+}
+
+/*------------------------------------*\
+    Sprites
+\*------------------------------------*/
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003154}}
+.icon {
+  text-indent: -119988px;
+  overflow: hidden;
+  text-align: left;
+  width: 16px;
+  height: 16px;
+  display: block;
+  float: left;
+  background-color: transparent;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  font-size: 1px;
+  line-height: 1px;
+  vertical-align: middle;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_shared\.scss}line{font-family:\00003169}}
+i.icon,
+img.icon {
+  display: inline-block;
+  float: none;
+  text-indent: 0;
+  max-width: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/icon\/\*\.png}line{font-family:\0000350}}
+.icon-sprite, .icon-fork, .icon-star {
+  background: url('../images/icon-s36a4c966bb.png') no-repeat;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.icon-fork {
+  background-position: 0 0;
+  height: 16px;
+  width: 16px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/sprites\/_base\.scss}line{font-family:\0000360}}
+.icon-star {
+  background-position: 0 -16px;
+  height: 16px;
+  width: 16px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\000032}}
+.cabeceraPagina {
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(230, 230, 230, 0.8)), color-stop(100%, rgba(230, 230, 230, 0))), url('../images/background.png'), #fafafa;
+  background: -webkit-linear-gradient(rgba(230, 230, 230, 0.8), rgba(230, 230, 230, 0)), url('../images/background.png'), #fafafa;
+  background: -moz-linear-gradient(rgba(230, 230, 230, 0.8), rgba(230, 230, 230, 0)), url('../images/background.png'), #fafafa;
+  background: -o-linear-gradient(rgba(230, 230, 230, 0.8), rgba(230, 230, 230, 0)), url('../images/background.png'), #fafafa;
+  background: linear-gradient(rgba(230, 230, 230, 0.8), rgba(230, 230, 230, 0)), url('../images/background.png'), #fafafa;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  z-index: -500;
+  height: 90px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000321}}
+.container {
+  margin: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000325}}
+.footer {
+  max-width: 76em;
+  margin: 0 auto;
+  text-shadow: 0 1px 0 white;
+  padding: 0 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000326}}
+.footer p {
+  font-size: 0.75em;
+  line-height: 2em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000332}}
+.footer a {
+  color: #333333;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000334}}
+.footer a:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000338}}
+.items {
+  *zoom: 1;
+  padding: 0.5em 0 0 0.5em;
+  max-width: 76em;
+  margin: 0 auto;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Library\/Ruby\/Gems\/1\.8\/gems\/compass-0\.12\.2\/frameworks\/compass\/stylesheets\/compass\/utilities\/general\/_clearfix\.scss}line{font-family:\0000338}}
+.items:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000343}}
+.items [aura-hull-widget] {
+  display: inline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000345}}
+.shape {
+  position: relative;
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000350}}
+.item {
+  padding: 0 0.5em 0.5em 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000352}}
+.item .content {
+  padding: 1em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000356}}
+.item .content > :last-child {
+  margin-bottom: 0em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000361}}
+.item:hover .title,
+.item .content a:not(.btn) {
+  color: #008cdd;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000365}}
+.item-content {
+  -webkit-background-clip: padding;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  overflow: hidden;
+  background-color: white;
+  border: 1px solid #dddddd;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+  border-radius: 4px;
+  display: block;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000374}}
+.item-content[data-href] {
+  cursor: pointer;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000377}}
+.bar {
+  background-color: #98a7b5;
+  color: white;
+  padding: 1em;
+  border: 4px 4px 0 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000383}}
+.bar-title {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000385}}
+.bar-title a {
+  font-size: 0.8125em;
+  line-height: 1.84615384615385em;
+  opacity: .7;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000389}}
+.bar-title a:hover {
+  opacity: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\0000395}}
+.metas {
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, rgba(255, 255, 255, 0)), color-stop(100%, rgba(255, 255, 255, 0.5)));
+  background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5));
+  background-image: -moz-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5));
+  background-image: -o-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5));
+  background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5));
+  padding: 0 1em;
+  border-top: 1px solid #dddddd;
+  background-color: #f1f3f5;
+  background-size: 100% 1.1875em;
+  background-repeat: no-repeat;
+  background-position: 0 100%;
+  box-shadow: inset 0 1px 0 white, 0 1px 1px rgba(0, 0, 0, 0.05);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+  border-radius: 0 0 4px 4px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003107}}
+.meta {
+  position: relative;
+  font-size: 0.75em;
+  line-height: 2em;
+  display: inline-block;
+  padding: 0.5em 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003115}}
+.meta + .meta {
+  margin-left: 1em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003119}}
+.meta--fork .icon-fork {
+  position: relative;
+  top: -2px;
+  opacity: .25;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003125}}
+.meta--star .icon-star {
+  position: relative;
+  top: -2px;
+  opacity: .25;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003132}}
+.simple-list li {
+  margin-bottom: 0.375em;
+  font-size: 1em;
+  line-height: 1.5em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003136}}
+.simple-list li span {
+  font-size: 0.875em;
+  line-height: 1.71428571428571em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003142}}
+.simple-list--complete li {
+  font-size: 0.8125em;
+  line-height: 1.84615384615385em;
+  margin-bottom: 0.15em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003150}}
+.simple-list--complete .icon {
+  opacity: .25;
+  margin-right: 6px;
+  position: relative;
+  top: -2px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003157}}
+.list {
+  margin-top: 0.75em;
+  margin-bottom: 0em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003161}}
+.list li {
+  margin-bottom: 0.375em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003164}}
+.list .list-title {
+  font-size: 0.875em;
+  line-height: 1.71428571428571em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003167}}
+.list p {
+  font-size: 0.6875em;
+  line-height: 2.18181818181818em;
+  margin-bottom: 0em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003173}}
+.item .title {
+  font-size: 1.125em;
+  line-height: 1.33333333333333em;
+  font-family: "colaborativaBook";
+  color: #333333;
+  margin-bottom: 0em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003181}}
+.item .url {
+  font-size: 0.75em;
+  line-height: 2em;
+  margin-bottom: 0em;
+  color: #008cdd;
+  display: inline-block;
+  max-width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003188}}
+.item .url:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003192}}
+.item .date {
+  margin-bottom: 0em;
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003197}}
+.item .description {
+  font-size: 0.875em;
+  line-height: 1.71428571428571em;
+  margin-top: 0.75em;
+  margin-bottom: 0em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003203}}
+.item .description + .date {
+  margin-top: 0.75em;
+}
+
+/* Specific item */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003209}}
+.item--centered .shape {
+  height: 0;
+  padding: 0 0 50% 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003213}}
+.item--centered .content {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003219}}
+.item--centered .content:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003227}}
+.item--centered .item-content {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003230}}
+.item--centered .centered {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003236}}
+.item--profile {
+  position: relative;
+  -webkit-perspective: 800px;
+  -moz-perspective: 800px;
+  -ms-perspective: 800px;
+  -o-perspective: 800px;
+  perspective: 800px;
+  z-index: 4;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003240}}
+.item--profile.item--profile--complete {
+  cursor: pointer;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003243}}
+.item--profile.flipped .shape {
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003244}}
+.item--profile .shape {
+  height: 0;
+  padding: 0 0 100% 0;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  -o-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 500ms ease-in-out;
+  -moz-transition: -moz-transform 500ms ease-in-out;
+  -o-transition: -o-transform 500ms ease-in-out;
+  transition: transform 500ms ease-in-out;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003250}}
+.item--profile .item-content {
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003253}}
+.item--profile .front {
+  z-index: 1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003256}}
+.item--profile .back {
+  -webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+  background: white;
+  z-index: 2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003262}}
+.item--profile .content {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003267}}
+.item--profile .item-content {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003273}}
+.item--profile .front .profile-name {
+  font-size: 1.375em;
+  line-height: 2.18181818181818em;
+  font-family: "colaborativaMedium";
+  padding: 0.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003282}}
+.profile-gradient {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, transparent), color-stop(100%, rgba(0, 0, 0, 0.3)));
+  background-image: -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  background-image: -moz-linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  background-image: -o-linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.3));
+  -webkit-transform: translateZ(0);
+  -moz-transform: translateZ(0);
+  -ms-transform: translateZ(0);
+  -o-transform: translateZ(0);
+  transform: translateZ(0);
+  color: #fff;
+  width: 100%;
+  border-radius: 0 0 4px 4px;
+  padding: 0.5em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003292}}
+.profile-header {
+  margin-bottom: 0.75em;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003296}}
+.profil-external {
+  opacity: .25;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003298}}
+.profil-external:hover {
+  opacity: .5;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003301}}
+.profile-picture {
+  position: relative;
+  -webkit-background-clip: padding;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
+  display: block;
+  width: 50px;
+  height: 50px;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 1px 1px white;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003310}}
+.profile-picture:before {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  content: "";
+  display: block;
+  border-radius: 4px;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003318}}
+.profile-picture img {
+  position: relative;
+  border-radius: 4px;
+  z-index: 1;
+  display: block;
+  max-width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003326}}
+.profile-name {
+  font-size: 1em;
+  line-height: 1.5em;
+  margin-top: 0.15em;
+  color: #333333;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003333}}
+.profile-meta, .profile-company {
+  font-size: 0.8125em;
+  line-height: 1.38461538461538em;
+  display: block;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003342}}
+.list-stat--complete {
+  margin-top: 0em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  margin-bottom: 0em;
+}
+
+@media all and (min-width: 33em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003348}}
+  .item {
+    width: 50%;
+    float: left;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003353}}
+  .item--centered .shape,
+  .shape {
+    height: 0;
+    padding: 0 0 100% 0;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003357}}
+  .item-content {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003359}}
+  .item-content footer {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+  }
+}
+@media all and (min-width: 44em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003366}}
+  .item {
+    width: 33.3333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003369}}
+  .item--wide {
+    width: 66.6666666666%;
+  }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003371}}
+  .item--wide .shape {
+    padding: 0 0 50% 0;
+  }
+}
+@media all and (min-width: 66em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003377}}
+  .item {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/javito\/Sites\/colaborativa\.github\.io\/assets\/sass\/_layout\.scss}line{font-family:\00003380}}
+  .item--wide {
+    width: 50%;
+  }
+}
+@font-face {
+  font-family: 'ColaborativaSemibold';
+  src: url("../fonts/colaborativasemibold-webfont.eot");
+  src: url("../fonts/colaborativasemibold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/colaborativasemibold-webfont.woff") format("woff"), url("../fonts/colaborativasemibold-webfont.ttf") format("truetype"), url("../fonts/colaborativasemibold-webfont.svg#ColaborativaSemiboldRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colaborativaBook';
+  src: url("../fonts/colaborativabook-webfont.eot");
+  src: url("../fonts/colaborativabook-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/colaborativabook-webfont.woff") format("woff"), url("../fonts/colaborativabook-webfont.ttf") format("truetype"), url("../fonts/colaborativabook-webfont.svgz#colaborativaBook") format("svg"), url("../fonts/colaborativabook-webfont.svg#colaborativaBook") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colaborativaMedium';
+  src: url("../fonts/colaborativamedium-webfont.eot");
+  src: url("../fonts/colaborativamedium-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/colaborativamedium-webfont.woff") format("woff"), url("../fonts/colaborativamedium-webfont.ttf") format("truetype"), url("../fonts/colaborativamedium-webfont.svgz#colaborativaMedium") format("svg"), url("../fonts/colaborativamedium-webfont.svg#colaborativaMedium") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colaborativaMediumItalic';
+  src: url("../fonts/colaborativamediumitalic-webfont.eot");
+  src: url("../fonts/colaborativamediumitalic-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/colaborativamediumitalic-webfont.woff") format("woff"), url("../fonts/colaborativamediumitalic-webfont.ttf") format("truetype"), url("../fonts/colaborativamediumitalic-webfont.svgz#colaborativaMediumItalic") format("svg"), url("../fonts/colaborativamediumitalic-webfont.svg#colaborativaMediumItalic") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'colaborativaLight';
+  src: url("../fonts/colaborativa-light-webfont.eot");
+  src: url("../fonts/colaborativa-light-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/colaborativa-light-webfont.woff") format("woff"), url("../fonts/colaborativa-light-webfont.ttf") format("truetype"), url("../fonts/colaborativa-light-webfont.svgz#colaborativa-light") format("svg"), url("../fonts/colaborativa-light-webfont.svg#colaborativa-light") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DroidSansRegular';
+  src: url("../fonts/DroidSans-webfont.eot");
+  src: url("../fonts/DroidSans-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/DroidSans-webfont.woff") format("woff"), url("../fonts/DroidSans-webfont.ttf") format("truetype"), url("../fonts/DroidSans-webfont.svg#DroidSansRegular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DroidSansBold';
+  src: url("../fonts/DroidSans-Bold-webfont.eot");
+  src: url("../fonts/DroidSans-Bold-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/DroidSans-Bold-webfont.woff") format("woff"), url("../fonts/DroidSans-Bold-webfont.ttf") format("truetype"), url("../fonts/DroidSans-Bold-webfont.svg#DroidSansBold") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
